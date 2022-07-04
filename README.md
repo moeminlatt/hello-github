@@ -14,3 +14,5 @@ Another change for pull test.
 It is change for push test.
 
 Update from new branch one.
+
+Update from local new branch.
