@@ -22,3 +22,5 @@ Update from downstream.
 Update to pull specific file.
 
 Update push single file.
+
+Update multi file but merger one file in remote.
