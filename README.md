@@ -20,3 +20,5 @@ Update from local new branch.
 Update from downstream.
 
 Update to pull specific file.
+
+Update push single file.
